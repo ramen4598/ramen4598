@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi👋
+
+- My blog : https://ramen4598.tistory.com/
 
 <!--
 **ramen4598/ramen4598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
