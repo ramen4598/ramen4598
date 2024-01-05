@@ -1,11 +1,11 @@
 ### Hi👋
 - Name : 김의근 (Kim uigeun)
+- Major : Software
 - My blog : https://ramen4598.tistory.com/
 
 - SSAFY 11기 (Samsung Software Academy For Youth 11th)
-<!-- - 대구대학교 컴퓨터정보공학부(컴퓨터소프트웨어전공) 졸업예정 -->
-- 공군 병장 만기전역 ✈️
-
+<!-- - 대구대학교 컴퓨터정보공학부(컴퓨터소프트웨어전공) 졸업예정(Daegu University ) -->
+- 공군 병장 만기전역✈️ (ROKAF 806th) 
 
 <!--
 **ramen4598/ramen4598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
