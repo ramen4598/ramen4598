@@ -1,7 +1,7 @@
 ### Hi👋
 - Name : 김의근 (Kim uigeun)
 - Major : Software
-- My blog : https://ramen4598.tistory.com/
+- My blog : https://tired-i.com/
 
 - SSAFY 11기 (Samsung Software Academy For Youth 11th)
 - 대구대학교 컴퓨터정보공학부 졸업 (컴퓨터소프트웨어전공)(Daegu University)
